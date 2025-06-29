@@ -13,7 +13,7 @@
 	<%= message %>
 	<% } %>
 	<form action="TubuyakiMain" method="post">
-	お名前：<input type="text" name="text"><br>
+	お名前：<input type="text" name="name"><br>
 	メールアドレス：<input type="email" name="email"><br>
 	パスワード：<input type="password" name="pass"><br>
 	<input type="submit" name="operation" value="登録">

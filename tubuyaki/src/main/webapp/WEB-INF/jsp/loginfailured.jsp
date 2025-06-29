@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1>ログイン失敗</h1>
-	<%= message %>
+	<%= message %><br>
 	<a href="index.jsp">戻る</a>
 </body>
 </html>
